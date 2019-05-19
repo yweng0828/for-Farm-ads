@@ -1,3 +1,8 @@
+内容：
+使用KNN, LDA（包含手写的和sklearn版本）, SVM（包含手写的和sklearn版本）解决Farm-ads数据集(source: http://archive.ics.uci.edu/ml/datasets/Farm+Ads)
+
+
+实验环境：
 本实验使用的jupyter notebook作为IDE
 
 __pycache__、.ipynb_checkpoints：均为自动生成文件
